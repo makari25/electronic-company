@@ -43,7 +43,7 @@ React Hot Toast: Notifications.
 
 ### ⚙️ Installation
 Clone the repository
-git clone https://github.com/MCCREARY25/electronic-company.git
+git clone https://github.com/makari25/electronic-company.git
 
 
 ### Install dependencies
