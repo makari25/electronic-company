@@ -58,34 +58,6 @@ npm run dev
 Navigate to http://localhost:5173 (or the port shown in your terminal).
 
 
-### 📂 Project Structure
-text
-
-src/
-├── components/        # Reusable UI components
-│   ├── Header.jsx     # Top navigation bar
-|   ├──ProtectedRoute.jsx # validates credentials
-│   ├── Sidebar.jsx    # Side navigation menu
-│   └── Footer.jsx     # Site footer
-├── pages/             # Main route pages
-│   ├── Dashboard.jsx  # Main layout container
-│   ├── Login.jsx      # Login form
-│   └── Register.jsx   # Registration form
-├── sections/          # Dashboard content sections
-│   ├── Products.jsx   # Product grid and logic
-│   ├── Profile.jsx    # User profile view
-│   ├── Messages.jsx   # Chat interface
-│   ├── Calendar.jsx   # Calendar view
-│   ├── Notifications.jsx
-│   ├── MyCard.jsx     # Identity card
-│   └── ...
-├── App.jsx            # Main application logic & routing
-├── main.jsx           # Entry point
-└── index.css          # Global styles (Tailwind)
-public/
-├── assets/            # Static images
-└── favicon.ico        # Application icon
-
 
 ### 💡 Usage Guide
 Navigation
