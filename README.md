@@ -82,11 +82,12 @@ Modify the tailwind.config.js file to extend the default color palette, or searc
 Edit the allProducts array inside src/sections/Products.jsx to add or modify items.
 
  # javascript
+ ```
 const allProducts = [
   { id: 13, name: "New Gadget", category: "Tech", price: 99, rating: 5, image: "gadget.jpg" },
   // ...
 ];
-
+```
 
 ### License
 Distributed under the MIT License. See LICENSE for more information.
