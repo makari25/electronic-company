@@ -6,39 +6,39 @@ A modern web application for an electronic company built with React.
 
 
 ### 🚀 Features
-Modern UI Design: Clean, responsive interface styled with Tailwind CSS.
-Dynamic Product Catalog: Filter products by category and search in real-time.
+- Modern UI Design: Clean, responsive interface styled with Tailwind CSS.
+- Dynamic Product Catalog: Filter products by category and search in real-time.
 
 ### Functional Shopping Cart:
-Add items to cart.
-Slide-over cart drawer with total price calculation.
-Remove items or clear cart.
+- Add items to cart.
+- Slide-over cart drawer with total price calculation.
+- Remove items or clear cart.
 
 ### Authentication System:
-Register: Create an account stored in LocalStorage.
-Login: Validates credentials against registered users.
-Protected Routes: Dashboard is inaccessible without login.
-Logout: Clears session and redirects to login.
+- Register: Create an account stored in LocalStorage.
+- Login: Validates credentials against registered users.
+- Protected Routes: Dashboard is inaccessible without login.
+- Logout: Clears session and redirects to login.
 
 ### Dashboard Sections:
-Products: Interactive grid with add-to-cart functionality.
-Profile: User details display.
-Messages: Chat-style interface layout.
-Calendar: Monthly view with event simulation.
-Notifications: Interactive list with read/unread states.
-Contact: Functional contact form.
-Responsive Navigation:
-Slide-in Sidebar.
-Sticky Header with search and navigation controls.
+- Products: Interactive grid with add-to-cart functionality.
+- Profile: User details display.
+- Messages: Chat-style interface layout.
+- Calendar: Monthly view with event simulation.
+- Notifications: Interactive list with read/unread states.
+- Contact: Functional contact form.
+- Responsive Navigation:
+- Slide-in Sidebar.
+- Sticky Header with search and navigation controls.
 
 ### 🛠️ Technologies Used
-Vite: Next-generation frontend tooling.
-React 18: A JavaScript library for building user interfaces.
-React Router DOM: For dynamic routing.
-Tailwind CSS: A utility-first CSS framework.
-Lucide React: Beautiful & consistent icons.
-Heroicons: Additional icon set (optional).
-React Hot Toast: Notifications.
+- Vite: Next-generation frontend tooling.
+- React 18: A JavaScript library for building user interfaces.
+- React Router DOM: For dynamic routing.
+- Tailwind CSS: A utility-first CSS framework.
+- Lucide React: Beautiful & consistent icons.
+- Heroicons: Additional icon set (optional).
+- React Hot Toast: Notifications.
 
 
 ### ⚙️ Installation
